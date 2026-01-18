@@ -15,7 +15,7 @@ Diferente de calculadoras tradicionais que exigem um botão "Igual" (=) para pro
 
 ## 🖼️ Demonstração Visual
 
-*(Se o projeto estiver hospedado na Vercel, Netlify ou GitHub Pages, insira o link aqui. Ex: [Acesse a Calculadora Online](URL))*
+https://portfolio-sable-two-qb4pzcoy3y.vercel.app/
 
 ## 🛠️ Tecnologias Utilizadas
 
